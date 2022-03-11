@@ -1,0 +1,16 @@
+.vscode\
+_includes\
+.bin\
+.bkps\listfile.txt
+.github\
+.camtasia\
+.docs\
+.scripts\
+docs\
+donate\
+images\
+preview\
+_config.yml
+.gitignore
+package.json
+README.md

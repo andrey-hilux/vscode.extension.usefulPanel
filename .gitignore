@@ -1,0 +1,14 @@
+/*
+/*/
+!/_includes/
+!/.bkps/
+!/.bin/
+!/.github/
+!/docs/
+!/donate/
+!/images/
+!/preview/
+!_config.yml
+!.gitignore
+!README.md
+
