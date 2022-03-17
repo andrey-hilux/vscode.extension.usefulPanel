@@ -2,7 +2,7 @@
 
  {% include github-corner.html %}
 
-# USEFUL PANEL | Ready(98.12%)
+# [USEFUL PANEL](https://andrey-hilux.github.io/vscode.extension.usefulPanel/) | Ready(98.12%)
 
 Firstly, it was the tool-based emergency system designed around the capability API of a [VS Code IDE](https://code.visualstudio.com).
 As maximum and convenient, flexible, super-fast [*Extreme programming* (XP)](docs/extreme-programming_XP.md) platform was aimed at the create more features, methods, and capabilities for emergency cases arising from sudden bugs out of new updates, rules, changes, .etc. Allowing programmers to design temporary or permanent solution in no-time.
